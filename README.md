@@ -8,6 +8,8 @@
 
 Ramen is a very essential food item in Japan. The word 'Shoyu' in Japan means soy sauce. The broth has a transparent, brown color due to the soy sauce and the ramen itself is a piece of art made by the Japanese. The chef takes their most delicious and expensive ingredients to make a premium dish. Here is how you could make one at home. 
 
+![ramen 2](the.jpg)
+
 ## The Ingredients
 
 Kombu Dashi and Tare (Broth)
