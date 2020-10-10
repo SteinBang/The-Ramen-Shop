@@ -1,6 +1,6 @@
 ## Ramen Shop
 
-![ramen 1](ramen.jpg)
+![ramen 1](the.jpg)
 
 
 
@@ -8,7 +8,7 @@
 
 Ramen is a very essential food item in Japan. The word 'Shoyu' in Japan means soy sauce. The broth has a transparent, brown color due to the soy sauce and the ramen itself is a piece of art made by the Japanese. The chef takes their most delicious and expensive ingredients to make a premium dish. Here is how you could make one at home. 
 
-![ramen 2](the.jpg)
+![ramen 2](ramen.jpg)
 
 ## The Ingredients
 
